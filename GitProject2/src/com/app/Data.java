@@ -14,6 +14,11 @@ public class Data {
 	{
 		System.out.println("Hello Again");
 	}
+    
+    public void m4()
+    {
+    	System.out.println("Hello from local repository.");
+    }
 
 	public static void main(String[] args) {
 		System.out.println("This a git program.");
