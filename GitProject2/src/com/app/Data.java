@@ -30,6 +30,7 @@ public class Data {
 	public void m5()
 	{
 		System.out.println("m5 method");
+		System.out.println("m-5  method");
 	}
 
 	public static void main(String[] args) {
