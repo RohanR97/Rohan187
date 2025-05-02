@@ -32,7 +32,10 @@ public class Data {
 		System.out.println("m5 method");
 		System.out.println("m-5  method");
 	}
-
+public void m6()
+	{
+		System.out.println("Done");
+	}
 	public static void main(String[] args) {
 		System.out.println("This a git program.");
 
