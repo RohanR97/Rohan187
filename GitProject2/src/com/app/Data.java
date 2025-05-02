@@ -27,6 +27,11 @@ public class Data {
 		System.out.println("Hello from remote repository.");
 	}
 
+	public void m5()
+	{
+		System.out.println("m5 method");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("This a git program.");
 
